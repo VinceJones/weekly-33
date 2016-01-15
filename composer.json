@@ -1,0 +1,19 @@
+{
+  "name": "vjones/challenge-33",
+  "description": "Go to prison for the least amount of years",
+  "type": "challenge",
+  "authors": [
+    {
+      "name": "vjones",
+      "email": "vjones@nerdery.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PHPWeekly\\": "src/"
+    }
+  },
+  "require": {
+    "doctrine/collections": "^1.3"
+  }
+}
